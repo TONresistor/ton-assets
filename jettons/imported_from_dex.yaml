@@ -1526,6 +1526,9 @@
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
+- address: 0:1c8124ed5789551d371861969f872ba50f981bea1873491c1c0d12aa094198c2
+  name: UTYAN
+  symbol: UTYAN
 - address: 0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293
   name: UXLINK Token
   symbol: UXLINK
